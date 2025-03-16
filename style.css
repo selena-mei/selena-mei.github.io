@@ -2,13 +2,13 @@
 body {
     background-color: #f5f5f5;
     color: #333;
-    font-family: 'Times New Roman', sans-serif;
+    font-family: 'Times New Roman', Times;
     margin: 0;
     padding: 0;
 }
 
 header {
-    background-color: #FFF0F5;
+    background-color: #DDA0DD;
     padding: 10px 20px;
     color: #fff;
 }
@@ -66,7 +66,7 @@ img {
 }
 
 #contact {
-    background-color: #ecf0f1;
+    background-color: #FFF0F5;
     padding: 15px;
     border-radius: 5px;
     margin-top: 20px;
@@ -82,7 +82,7 @@ img {
 }
 
 footer {
-    background-color: #FFF0F5;
+    background-color: #DDA0DD;
     color: #fff;
     text-align: center;
     padding: 10px;
