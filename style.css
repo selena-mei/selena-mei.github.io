@@ -1,6 +1,6 @@
 
 body {
-    background-color: #9e1b32;
+    background-color: #000000;
     color: #333;
     font-family: 'Times New Roman', Times;
     margin: 0;
@@ -10,7 +10,7 @@ body {
 header {
     background-color: #9e1b32;
     padding: 10px 20px;
-    color: #fff;
+    color: #000000;
 }
 
 nav ul {
